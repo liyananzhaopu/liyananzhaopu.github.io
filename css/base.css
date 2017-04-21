@@ -1,0 +1,11 @@
+body{
+	font-size: 12px;
+	font-family: "微软雅黑","宋体";
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none; /* 去掉a标签的下划线 */
+}
